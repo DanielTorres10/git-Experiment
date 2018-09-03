@@ -7,7 +7,7 @@ public class Frame
 		JFrame frame = new JFrame();
 		
 		frame.setSize(500,600);
-		frame.setTitle("Alien");
+		frame.setTitle("An Alien");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 		Art component = new Art();
